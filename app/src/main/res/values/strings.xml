@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click To Login</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="first_name">First Name</string>
+    <string name="surname_name">Surname Name</string>
+    <string name="pan">PAN</string>
+    <string name="aadhar">AADHAR</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="father_s_name">Father\'s Name</string>
+    <string name="mother_s_name">Mother\'s Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+</resources>
